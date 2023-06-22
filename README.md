@@ -1,9 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
 I am Anu Singh, looking forward to become Full Stack Developer
-
-**LinkedIn Profile:** https://www.linkedin.com/in/anu-singh-msc/
-**HyperionDev Portfolio:** https://www.hyperiondev.com/portfolio/147435/
 
 ## Profile
 
@@ -24,5 +21,7 @@ Fast learner enthusiastic to adapt to new stacks/technologies with a problem-sol
 - **Version Control:** GitHub
 - **Tools:** VS Code
 
+## Thanks for visiting my profile
+LinkedIn Profile: https://www.linkedin.com/in/anu-singh-msc/
 
-Thanks for visiting my profile
+HyperionDev Portfolio: https://www.hyperiondev.com/portfolio/147435/
