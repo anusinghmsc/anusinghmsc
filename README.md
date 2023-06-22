@@ -1,3 +1,5 @@
+<img title="Fail Fast" alt="Fail Fast" src="/images/ff.jpg">
+
 # Hi there 👋
 
 I am Anu Singh, looking forward to become Full Stack Developer
