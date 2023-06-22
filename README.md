@@ -27,3 +27,5 @@ Fast learner enthusiastic to adapt to new stacks/technologies with a problem-sol
 LinkedIn Profile: https://www.linkedin.com/in/anu-singh-msc/
 
 HyperionDev Portfolio: https://www.hyperiondev.com/portfolio/147435/
+
+##### _Click [here](https://github.com/anusinghmsc/anusinghmsc/blob/main/CV_Anu_Developer.pdf) for CV_
